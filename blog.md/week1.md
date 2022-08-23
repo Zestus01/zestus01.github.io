@@ -7,3 +7,4 @@
 3. Less stress on my end about finishing projects on a deadline 
 
 ## Thoughts on the future path to become a full stack deveoloper
+2. Making a change to push to git hub
