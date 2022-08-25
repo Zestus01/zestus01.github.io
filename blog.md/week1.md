@@ -8,3 +8,6 @@
 
 ## Thoughts on the future path to become a full stack deveoloper
 2. Making a change to push to git hub
+
+
+![Spinning frog](/img/bigfrog.gif)
