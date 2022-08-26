@@ -1,3 +1,5 @@
+<body bgcolor = "#800000">
+
 # Week One
 
 ## Thoughts on week one developer journey. 
