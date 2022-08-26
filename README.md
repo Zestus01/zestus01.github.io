@@ -25,5 +25,5 @@
 ###### I like frogs
 
 
-#### To do the color had to hack in HTML code using ```<span style="color:green?">> Text </span>``` 
+#### To do the color had to hack in HTML code using ```<span style="color:green?"> Text </span>``` 
 
