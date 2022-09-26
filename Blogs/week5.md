@@ -4,8 +4,7 @@
 
 ##### &emsp;
 
-### &emsp; Bootstrap is a great tool to get HTML looking nice. It has great documentation and great usability. CSS/HTML is probably my weakest subject yet so far. It taps into the design/color aspect of design that doesn't click with me. I can see the shades of color but not the ones that match. Not the ones that are pleasing to the eye. The colors I choose just don't seem to match... usually a shade or two off. Bootstrap has plenty of easy options to chose the color. All I have to do is slap some classes on it and things look decent. Getting back to that "good enough" look. Should probably get second opinions and do multiple color markups and chose the best one. 
-
+### &emsp; Bootstrap is a great tool to get HTML looking nice. It has great documentation and great usability. CSS/HTML is probably my weakest subject yet so far. It taps into the design/color aspect of design that doesn't click with me. I can see the shades of color but not the ones that match. Not the ones that are pleasing to the eye. The colors I choose just don't seem to match... usually a shade or two off. Bootstrap has plenty of easy options to chose the color. All I have to do is slap some classes on it and things look decent. Getting back to that "good enough" look. Should probably get second opinions and do multiple color markups and chose the best one. Maybe have an ai generate some color schemes. Worked for the logo. 
 ##### &emsp;
 
-### 
+### &emsp; Being in person has made the actual learning process easier. Bouncing ideas off people and seeing the different ways people think about problems is always helpful to me. I'm a huge proponent of collarbative work. APES TOGETHER STRONG! Plus there is a social component that helps with the mental aspect. Easier to feel better talking to people than talking to a blue zoom screen. Being in person also gives my life more structure, oddly giving me a bigger push to do the things I want, instead of passing the day by lazing in a hammock. 
