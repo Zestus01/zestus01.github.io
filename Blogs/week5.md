@@ -1,3 +1,11 @@
 ## Week 5 Blog
 ##### &emsp; HTML, CSS, JS, State
-### The number one thing holding me back this week from completling more strech goals was the "code was good enough". 
+### &emsp; This week didn't have many challenges or blockers. I was able to meet the main requirements, granted I didn't meet as many stretch goals that I wanted. The number one thing holding me back from completing more strech goals was the "code was good enough". I hit a couple of the stretch goals that I had an idea of how to accomplish. Everything past "good enough" is just window dressing and not needed. I learned the main requirements for that week. Once my code hit the main requirements of the project specifications I took my time and helped other people to get their code "good enough". After a while I came back and cleaned up some redundancies and unncessary logic. With Demo day, I can learn all the things that I overlooked and some I didn't know about. 
+
+##### &emsp;
+
+### &emsp; Bootstrap is a great tool to get HTML looking nice. It has great documentation and great usability. CSS/HTML is probably my weakest subject yet so far. It taps into the design/color aspect of design that doesn't click with me. I can see the shades of color but not the ones that match. Not the ones that are pleasing to the eye. The colors I choose just don't seem to match... usually a shade or two off. Bootstrap has plenty of easy options to chose the color. All I have to do is slap some classes on it and things look decent. Getting back to that "good enough" look. Should probably get second opinions and do multiple color markups and chose the best one. 
+
+##### &emsp;
+
+### 
