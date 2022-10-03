@@ -1,0 +1,7 @@
+## Week 6 
+
+### &emsp; The developement process never ends. Some may say the the process ends when the deadline occurs, but does it acutally end. Does it actually leave your brain, or does it not stay in there like a hamster endlessly running in a wheel. "OOOOHH I could have cut that logic out." "Aww shucks I forgot to add that functionality into the end product." A good developement process constantly builds on itself. There can always be corrections made, more functionality added to the product. The process only ends when the developer gives up on it. A good developement process doesn't stop at the first hurdle or mishap, it pushes through and builds on itself. A never ending cycle of improvement
+
+### &emsp; Developing good code is such a subjective statement. Obviously there are some defined characteristics of it. Good code runs, it fits the requirements, and doesn't crash. To some that all that good code needs to be, but not to me. To me good code is readable, able to be understood by a quick read through, and responsive. Good code isn't undescriptive variable names, its getDataByLocation. Good code is spaced out, commented, and indented. This helps future me coming back and refrence previous code. Good code isn't hardcode based on values, its as abstract as can be. Refrencing the variables themselves instead of external parameters. Self documenting code is a great example of good code. It's spaced well, and has easy to follow logic.
+
+### &emsp; A good developer 
