@@ -6,4 +6,4 @@
 
 ### &emsp; A good developer is akin to a lazy student. This student keeps on learning but optimizes what he can. If the info being learning isn't needed multiple times, that can be saved for an easy google search when the time comes. A lazy student will find shortucts when they can and incorporate their knowledge into practise. Lazy student will try to write as little code as possible, meaning that the code written is succint, not complicated, and straightforward. Why write 6 lines of convoluted logic if just 3 lines of well thought code works.  
 
-### &emsp; As a junior, baby programmer I hate typing. Why type many when few work. Repeating logic and functionality only feels good on the ego when flexing and getting to that high line count. There is not practical benefical thing about typing a whole bunch of words. g
+### &emsp; As a junior, baby programmer I hate typing. Why type many when few work. Repeating logic and functionality only feels good on the ego when flexing and getting to that high line count. There is not practical benefical thing about typing a whole bunch of words. 
