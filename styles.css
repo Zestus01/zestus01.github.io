@@ -21,13 +21,14 @@
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 100vw;
   }
   
   /* Change the color of links on hover */
   .topnav:hover {
     background-color: #f4a30c;
     color: black;
+    font-size:100%;
   }
   
   /* Add a color to the active/current link */
