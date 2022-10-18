@@ -1,3 +1,7 @@
 ## Week 7, third week of inperson.
 
-### To pseudocode or not to pseudocode that is the question. A question that has only one answer. To pseudocode is to think, something that is in low amount these days, espicially from this author. 
+### To pseudocode or not to pseudocode that is the question. A question that has only one answer. To pseudocode is to think, something that is in low amount these days, espicially from this author. It is a rare occasion that I think about things, but when I do I make an artificial "intelligence" to play Tic-Tac-Toe. I say "intelligence" because the AI couldn't pass a Turing test to save it's own fake life. One of the few, starting to become many, cases where pseudocoding is extremely helpful. 
+
+### Step one in pseudocoding is figuring out the problem. In this case the overarching problem was how to decide the best move in Tic-Tac-Toe. Statistically the best first move in Tic-Tac-Toe is to place in a corner, second move is to be in the middle. After the intial moves from both players the best move is to set up a potential win and otherwise block. Break this down even more into the base question "How to see a potential win." Seems a semi difficult question, but finding an "actual win" isn't much different. Whichever move after placing a mark is one away from a win, boom potential win. First step of pseodocoding done, now to think about implementing.
+
+### Step two is thinking in coding paradigms. How am I going to implement the solution to the problem that I found to be the root problem. 
