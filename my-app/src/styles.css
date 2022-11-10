@@ -1,0 +1,59 @@
+.primary-color{
+    background-color: #17121A;
+}
+.secondary-color{
+    background-color: #79b8f8;
+}
+.green-color{
+  background-color: #4cb963;
+}
+.accent-text{
+  color: #ff4d4f;
+}
+.alt-text{
+  color: #e5b4c4;
+}
+.green-text{
+  color: #4cb963;
+}
+.secondary-alt{
+  background-color: #ff4d4f;
+}
+.accent{
+  background-color: #e5b4c4;
+}
+.h1{
+    color:black;
+    text-align: end;
+}
+/* Add a black background color to the top navigation */
+.navbar {
+    background-color: #79b8f8;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: #9bf096;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 100vw;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav:hover {
+    background-color: #ff4d4f;
+    color: black;
+    font-size:100%;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+.teal{
+    background-color: #9bf096;
+}
