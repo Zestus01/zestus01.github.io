@@ -34,7 +34,7 @@ export default class Textbox extends Component{
     render(){
         const { markdown } = this.state
         return (
-                <section className='blogpost'>
+                <section className='blogpost text-white'>
                     <ReactMarkdown children={this.state.markdown} />
                 </section>
             )
