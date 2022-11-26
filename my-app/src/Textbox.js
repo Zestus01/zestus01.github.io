@@ -1,6 +1,7 @@
 import {useState, Component} from 'react';
 import ReactMarkdown from 'react-markdown';
 
+
 export default class Textbox extends Component{
     constructor(props){
         super(props)
@@ -9,8 +10,7 @@ export default class Textbox extends Component{
     }
 
     componentDidMount() {
-        // let filePath = this.state.path;
-        // console.log(filePath);
+        // let filePath = './Blogs/week' + this.state.path + '.md';
         const readme = require('./Blogs/week3.md');
         fetch(readme)
             .then((response) => response.text())

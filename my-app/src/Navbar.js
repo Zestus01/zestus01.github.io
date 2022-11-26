@@ -1,8 +1,12 @@
-import {useState, useRef, useEffect} from 'react'
+import {useState, useRef, useEffect} from 'react';
+import ContentDisplay from './ContentDisplay';
 import './css/styles.css'
 
 export default function Navbar(props){
+  const [page, setPage] = useState('Home');
+
   return(
+    <div>
       <nav className="navbar navbar-expand-lg secondary-color">
           <div className="container-fluid">
             <a className="navbar-brand fw-bold accent-text">Zestus</a>
@@ -12,13 +16,16 @@ export default function Navbar(props){
             <div className="collapse navbar navbar-collapse" id="navbarSupportedContent">
               <ul className="navbar-nav d-flex container-fluid">
                 <li className="nav-item">
-                  <a className="m-1 button btn topnav accent nav-link active" aria-current="page" href="#">Home</a>
+                  <a className="m-1 button btn topnav accent nav-link active" aria-current="page" href="#" onClick={() => setPage('Home')}>Home</a>
                 </li>
                 <li className="nav-item">
-                  <a className="m-1 nav-link button btn topnav accent">Projects</a>
+                  <a className="m-1 nav-link button btn topnav accent" onClick={() => setPage('Projects')}>Projects</a>
                 </li>
                 <li className="nav-item">
-                  <a className="m-1 nav-link button btn topnav accent" href="#">Blogs</a>
+                  <a className="m-1 nav-link button btn topnav accent" href="#" onClick={() => setPage('Blogs')}>Blogs</a>
+                </li>
+                <li className="nav-item">
+                  <a className="m-1 nav-link button btn topnav accent" href="#" onClick={() => setPage('About')}>About Me</a>
                 </li>
                 <li className="nav-item">
                   <a className="m-1 nav-link button btn topnav accent" href="https://github.com/Zestus01" target='_blank'>Github</a>
@@ -30,6 +37,8 @@ export default function Navbar(props){
             </div>
           </div>
         </nav>
+      <ContentDisplay page={page} />
+    </div>
   );
 }
 
