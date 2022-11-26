@@ -1,3 +1,4 @@
+import {useState, useRef, useEffect} from 'react'
 import './css/styles.css'
 
 export default function Navbar(props){
@@ -5,11 +6,11 @@ export default function Navbar(props){
       <nav className="navbar navbar-expand-lg secondary-color">
           <div className="container-fluid">
             <a className="navbar-brand fw-bold accent-text">Zestus</a>
-            <button className="navbar-toggler primary-color" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <button className="navbar-toggler accent" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
               <span className="navbar-toggler-icon"></span>
             </button>
             <div className="collapse navbar navbar-collapse" id="navbarSupportedContent">
-              <ul className="navbar-nav d-flex ">
+              <ul className="navbar-nav d-flex container-fluid">
                 <li className="nav-item">
                   <a className="m-1 button btn topnav accent nav-link active" aria-current="page" href="#">Home</a>
                 </li>

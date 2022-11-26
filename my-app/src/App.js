@@ -1,13 +1,9 @@
-import './App.css';
-import Navbar from './navbar';
-import Header from './Header'
+import Manager from './Manager';
+import {useState, useRef, useEffect} from 'react'
 
 function App() {
   return (
-    <div>
-      <Header />
-      <Navbar /> 
-    </div>
+      <Manager />
     );
   }
   
