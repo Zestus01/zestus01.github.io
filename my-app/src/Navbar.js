@@ -18,10 +18,10 @@ export default function Navbar(props){
                   <a className="m-1 nav-link button btn topnav accent">Projects</a>
                 </li>
                 <li className="nav-item">
-                  <a className="m-1 nav-link button btn topnav accent" href="https://github.com/Zestus01" target='_blank'>Github</a>
+                  <a className="m-1 nav-link button btn topnav accent" href="#">Blogs</a>
                 </li>
                 <li className="nav-item">
-                  <a className="m-1 nav-link button btn topnav accent" href="#">Blogs</a>
+                  <a className="m-1 nav-link button btn topnav accent" href="https://github.com/Zestus01" target='_blank'>Github</a>
                 </li>
                 <li className="nav-item">
                   <a className="m-1 nav-link button btn topnav accent" href="https://drive.google.com/file/d/1Bm5uyAgVFSUrIeB5YFKuxQCsftnSfiL3/view?usp=sharing" target="_blank">Resume</a>

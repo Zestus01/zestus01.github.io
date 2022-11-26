@@ -10,7 +10,7 @@ export default function Manager(props){
         <div>
             <Header />
             <Navbar />
-            <Textbox />
+            <Textbox path={'./Blogs/week1.md'}/>
         </div>
     );
 }

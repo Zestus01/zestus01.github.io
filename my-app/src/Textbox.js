@@ -1,38 +1,28 @@
-import {useState, useRef, useEffect, Component} from 'react';
+import {useState, Component} from 'react';
 import ReactMarkdown from 'react-markdown';
-// import marked from '../node_modules/marked';
 
 export default class Textbox extends Component{
     constructor(props){
         super(props)
-        this.state = {markdown: ''}
+        this.state = {markdown: '', path: props.path}
+        // console.log(this.state);
     }
 
-    componentWillMount() {
-        const readmePath = require('./Blogs/week1.md');
-        fetch(readmePath)
+    componentDidMount() {
+        // let filePath = this.state.path;
+        // console.log(filePath);
+        const readme = require('./Blogs/week3.md');
+        fetch(readme)
             .then((response) => response.text())
             .then((text) => {
                 this.setState({ markdown: text })
             })
       }
     
-    // componentDidMount(){
-    //     const readmePath = require('./Blogs/week1.md');
-
-    //     fetch(readmePath)
-    //         .then(response => {
-    //             return response.text()
-    //         })
-    //         .then(text => {
-    //             this.setState({
-    //                 markdown: marked(text)
-    //             })
-    //         })
-    // }
 
     render(){
-        const { markdown } = this.state
+        // console.log(this.state.markdown);
+        const { markdown } = this.state.markdown
         return (
                 <section className='blogpost text-white'>
                     <ReactMarkdown children={this.state.markdown} />
