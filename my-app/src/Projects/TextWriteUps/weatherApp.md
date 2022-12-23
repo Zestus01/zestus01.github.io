@@ -1,0 +1,2 @@
+## What's the Weather
+### Single page application that will tell the weather from an United States zip code or current location of the user. Uses an external API that provides the weather information. API is called with AXIOS. Completed during week two. 

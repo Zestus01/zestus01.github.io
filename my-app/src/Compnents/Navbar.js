@@ -27,6 +27,9 @@ export default function Navbar(props){
                   <a className="m-1 nav-link button btn topnav accent" href="#" onClick={() => props.setPage('About')}>About Me</a>
                 </li>
                 <li className="nav-item">
+                  <a className="m-1 nav-link button btn topnav accent" href="#" onClick={() => props.setPage('Changelog')}>Changelog</a>
+                </li>
+                <li className="nav-item">
                   <a className="m-1 nav-link button btn topnav accent" href="https://github.com/Zestus01" target='_blank'>Github</a>
                 </li>
                 <li className="nav-item">
