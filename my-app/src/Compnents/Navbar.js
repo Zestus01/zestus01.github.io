@@ -39,7 +39,9 @@ export default function Navbar(props){
             </div>
           </div>
         </nav>
-      <ContentDisplay page={props.page} />
+        <div className='text-white'>
+          <ContentDisplay page={props.page} />
+        </div>
     </div>
   );
 }

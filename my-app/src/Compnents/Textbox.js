@@ -1,8 +1,5 @@
 import {useState, useEffect} from 'react';
-import ReactMarkdown from 'react-markdown';
 import Markdown from 'markdown-to-jsx';
-
-
 
 export default function Textbox(props){;
     const [post, setPost] = useState('');
@@ -19,12 +16,12 @@ export default function Textbox(props){;
             .catch(err => console.log(err));
     });
     function increaseWeek(props){
-        if(weekNum != 11){
+        if(weekNum !== 11){
             setWeekNum(weekNum + 1);
         }
     }
     function decreaseWeek(props){
-        if(weekNum != 1){
+        if(weekNum !== 1){
             setWeekNum(weekNum - 1);
         }
     }
@@ -32,7 +29,7 @@ export default function Textbox(props){;
     return (
         <div className="container text-white">
             <button className="button btn topnav accent" onClick={() => decreaseWeek()}>Prev week</button>
-            <button className="button btn topnav accent" onClick={() => increaseWeek()}>Next week</button>
+            <button className="button btn topnav accent justify-content-end" onClick={() => increaseWeek()}>Next week</button>
             <Markdown>
                 {post}
             </Markdown>
