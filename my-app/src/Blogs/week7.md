@@ -1,4 +1,4 @@
-## Week 7, third week of in person.
+## Week 7, in person week 3.
 
 ##### To pseudocode or not to pseudocode that is the question. A question that has only one answer. To pseudocode is to think, something that is in low amount these days, especially from this author. It is a rare occasion that I think about things, but when I do I make an artificial "intelligence" to play Tic-Tac-Toe. I say "intelligence" because the AI couldn't pass a Turing test to save it's own fake life. One of the few, starting to become many, cases where pseudocoding is extremely helpful.  
 

@@ -1,4 +1,4 @@
-## Week 5 Blog
+## Week 5, in person week 1
 #####  HTML, CSS, JS, State
 #####   This week didn't have many challenges or blockers. I was able to meet the main requirements, granted I didn't meet as many stretch goals that I wanted. The number one thing holding me back from completing more stretch goals was the "code was good enough". I hit a couple of the stretch goals that I had an idea of how to accomplish. Everything past "good enough" is just window dressing and not needed. I learned the main requirements for that week. Once my code hit the main requirements of the project specifications I took my time and helped other people to get their code "good enough". After a while I came back and cleaned up some redundancies and unnecessary logic. With Demo day, I can learn all the things that I overlooked and some I didn't know about.  
 

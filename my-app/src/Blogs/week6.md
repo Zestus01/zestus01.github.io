@@ -1,4 +1,4 @@
-## Week 6 
+## Week 6, in person week 2
 
 ##### The development process never ends. Some may say the the process ends when the deadline occurs, but does it actually end. Does it actually leave your brain, or does it not stay in there like a hamster endlessly running in a wheel. "OOOOHH I could have cut that logic out." "Aww shucks I forgot to add that functionality into the end product." A good development process constantly builds on itself. There can always be corrections made, more functionality added to the product. The process only ends when the developer gives up on it. A good development process doesn't stop at the first hurdle or mishap, it pushes through and builds on itself. A never ending cycle of improvement
 

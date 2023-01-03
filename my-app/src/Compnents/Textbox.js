@@ -4,7 +4,10 @@ import Markdown from 'markdown-to-jsx';
 export default function Textbox(props){;
     const [post, setPost] = useState('');
     const [weekNum, setWeekNum] = useState(1)
-    let numArray = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+    let numArray = [];
+    for(let i = 1; i < 18; i++){
+        numArray.push(i);
+    }
     useEffect(() => {
         import(`../Blogs/week${weekNum}.md`)
             .then(res => {
@@ -16,12 +19,12 @@ export default function Textbox(props){;
             .catch(err => console.log(err));
     });
     function increaseWeek(props){
-        if(weekNum !== 11){
+        if(weekNum !== numArray[(numArray.length - 1)]){
             setWeekNum(weekNum + 1);
         }
     }
     function decreaseWeek(props){
-        if(weekNum !== 1){
+        if(weekNum !== numArray[0]){
             setWeekNum(weekNum - 1);
         }
     }
