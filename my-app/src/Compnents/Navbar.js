@@ -1,6 +1,4 @@
-import {useState, useRef, useEffect} from 'react';
 import ContentDisplay from './ContentDisplay';
-
 
 export default function Navbar(props){
 
@@ -30,10 +28,10 @@ export default function Navbar(props){
                   <a className="m-1 nav-link button btn topnav accent" href="#" onClick={() => props.setPage('Changelog')}>Changelog</a>
                 </li>
                 <li className="nav-item">
-                  <a className="m-1 nav-link button btn topnav accent" href="https://github.com/Zestus01" target='_blank'>Github</a>
+                  <a rel="noreferrer" className="m-1 nav-link button btn topnav accent" href="https://github.com/Zestus01" target='_blank'>Github</a>
                 </li>
                 <li className="nav-item">
-                  <a className="m-1 nav-link button btn topnav accent" href="https://drive.google.com/file/d/1Bm5uyAgVFSUrIeB5YFKuxQCsftnSfiL3/view?usp=sharing" target="_blank">Resume</a>
+                  <a rel="noreferrer" className="m-1 nav-link button btn topnav accent" href="https://drive.google.com/file/d/1Bm5uyAgVFSUrIeB5YFKuxQCsftnSfiL3/view?usp=sharing" target="_blank">Resume</a>
                 </li>
               </ul>
             </div>

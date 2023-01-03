@@ -1,5 +1,3 @@
-
-import {useState, useRef} from 'react';
 import Textbox from './Textbox';
 import AboutMe from './AboutMe';
 import Projects from './Projects'

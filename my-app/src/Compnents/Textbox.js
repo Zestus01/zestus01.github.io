@@ -40,7 +40,7 @@ export default function Textbox(props){;
             </Markdown>
             <div className='row'>
                 {numArray.map((num) => (
-                    <p className={'col-1 ' + (weekNum === num ? 'fw-bold' : '')} onClick={() => setWeekNum(num)}>{num}</p>
+                    <p key={num} className={'col-1 ' + (weekNum === num ? 'fw-bold' : '')} onClick={() => setWeekNum(num)}>{num}</p>
                 ))}
             </div>
         </div>

@@ -1,7 +1,7 @@
 ## Week 11, in person 7
 
 ##### Pythons similarities with Javascript follow the line hat they are both programming languages. Similar usages with if statements and functions exist in both. Python has much easier mathematical expressions syntax and variable mutation. Computing math in python is much simpler with the built in math functions, no need to use the Math library every time. With python indention matters, you can slap Javascript with (), and {} to get anything done. Python needs a good flow of indention to even function. 
-##### 
+#####  
 ##### Python is very different from other languages. Javascript is not. Javascript has its own syntax, but the general gist is the same all around. Learning Javascript first prov    ides a better base for learning other languages. The syntax of (), {} can be used all around. Python is too dissimilar with the indention to easily transfer the knowledge over to another language. In my opinion learning Javascript as a beginning programmer is smarter. More transferable knowledge to other languages.    
-#### 
+####  
 ##### After learning the basics of front end, and back end, I look at the app Reddit differently. To build a front end that can display all of the different posts in a short time as to not have the user click away is impressive. Not to mention the way that reddit stores all of those various posts, subreddits, and comments. Plethora of database tables and many users could easily overload a poorly laid out system. I say that and it could all be spaghetti code holding the whole thing together. The only way to know is too look at their github account to pull their secrets. After some analysis it does not look like spaghetti code. The top languages on their github are Python, Javascript, Go, Ruby, and C++. Though it looks like its mostly Javascript, and Python getting committed regularly. C++ is three years old.  
