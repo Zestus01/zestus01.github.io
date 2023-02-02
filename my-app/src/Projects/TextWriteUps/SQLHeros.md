@@ -1,0 +1,2 @@
+## SQL Heros
+### Created and queried a superhero database. Used SQL commands to display joined data, and simulate an alien attack. Implemented CRUD functionality. Coded in python using a Postgres conversion. Completed during week 7

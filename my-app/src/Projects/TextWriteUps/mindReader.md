@@ -1,0 +1,2 @@
+## Mindreader
+### Static application that tricks the user into thinking that their number is guessed. The classic math logic prank. Coded in vanilla JavaScript. Completed week 1 of in person teaching. 
