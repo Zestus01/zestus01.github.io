@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[451],{451:function(e,p,a){e.exports=a.p+"static/media/week2.b96bc6b9b23233f2af66.md"}}]);
