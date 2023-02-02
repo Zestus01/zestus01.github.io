@@ -1,4 +1,4 @@
-let projectArray = [];
+export let projectArray = [];
 
 // Project Object Template 
 // Object will have a title, description, repo, and link
@@ -67,5 +67,3 @@ djangoDjams.description = "A music backend database. Coded with python using Dja
 djangoDjams.repo = "https://github.com/Zestus01/Django_Djams"
 djangoDjams.live = null;
 projectArray.push(djangoDjams);
-
-export default projectArray;
