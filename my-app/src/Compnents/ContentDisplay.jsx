@@ -10,7 +10,7 @@ export default function ContentDisplay(props){
             <div>
                 <h4 className='text-white display-6'>WELCOME</h4>
                 <p className='text-white'>
-                    This is my portfolio website where I showcase my amazing abilitiy in webpage developement. It is still a work in progress. Come back around January 14th for the final product!
+                    This is my portfolio website where I showcase my amazing ability in webpage development. It is still a work in progress. Most of the content is filled out, but as you can see it is lacking in the style department. Alas, those style skills elude me. I am regularly updating the content/style so come back in a month to see whats changed.
                 </p>
             </div>
         )

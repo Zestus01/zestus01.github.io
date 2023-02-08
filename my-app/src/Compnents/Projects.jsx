@@ -7,11 +7,11 @@ export default function Projects(props){
     return (
         <div>
             {projectArray.map( (project) => (
-                <div>
+                <div className='container-fluid'>
                     <h2>{project.title}</h2>
                     <p>{project.description}</p>
-                    <a href={project.repo} target="_blank">REPO: {project.repo} <br></br></a>
-                    <a href={project.live} target="_blank">{project.live ? "Live version: " +  project.live : "Project is backend. No live version"}</a>
+                    <a className='font-italic text-decoration-none' href={project.repo} target="_blank">REPO: {project.repo} <br></br></a>
+                    <a className='font-italic text-decoration-none' href={project.live} target="_blank">{project.live ? "Live version: " +  project.live : "Project is backend. No live version"}</a>
                 </div>
             ))}
         </div>
