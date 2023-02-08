@@ -1,3 +1,3 @@
 ## Week 15, in person 11
 
-#####
+#### I am getting pretty nervous about my final project. I keep coding on it and comparing my project to other people and see their real world applications compared to mine. I keep seeing the slick style people are able to come up with. Damn imposter syndrome coming on strong. Helps to keep that idea in check by remembering that they don't see the cracks I see in my own code and I don't see the cracks in their code. Everyone is doing what they can with the knowledge they got. Short blog because I CODING A FULL STACK YAHOOOOO!!!!!!
