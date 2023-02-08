@@ -67,3 +67,17 @@ djangoDjams.description = "A music backend database. Coded with python using Dja
 djangoDjams.repo = "https://github.com/Zestus01/Django_Djams"
 djangoDjams.live = null;
 projectArray.push(djangoDjams);
+
+let healthHound = {};
+healthHound.title = "Health Hound";
+healthHound.description = "Full stack application for tracking a dog's activities. Planned and coded solo in a two week sprint. Used React for the frontend, and Django Rest framework for the backend. Completed for capstone project."
+healthHound.repo = "https://github.com/Zestus01/PuppyTrackerFront";
+healthHound.live = "https://health-hound.web.app";
+projectArray.push(healthHound);
+
+let angularWeather = {};
+angularWeather.title = "Angular of Perception";
+angularWeather.description = "A copycat project of the 'What's the Weather'. Coded using Angular framework for practice. Post bootcamp.";
+angularWeather.repo = "https://github.com/Zestus01/weatherAppAngular";
+angularWeather.live = "Not finished yet"
+projectArray.push(angularWeather);
