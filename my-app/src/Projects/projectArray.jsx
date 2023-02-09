@@ -77,7 +77,7 @@ projectArray.push(healthHound);
 
 let angularWeather = {};
 angularWeather.title = "Angular of Perception";
-angularWeather.description = "A copycat project of the 'What's the Weather'. Coded using Angular framework for practice. Post bootcamp.";
+angularWeather.description = "A copycat project of the 'What's the Weather'. Coded using Angular framework for practice. Post bootcamp. I admit I have trouble styling and displaying data without running into undefined/error territory.";
 angularWeather.repo = "https://github.com/Zestus01/weatherAppAngular";
-angularWeather.live = "Not finished yet"
+angularWeather.live = "https://zestus01.github.io/weatherAppAngular/"
 projectArray.push(angularWeather);
