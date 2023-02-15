@@ -2,7 +2,7 @@
 import Navbar from './Navbar';
 import Header from './Header';
 
-import {useState} from 'react';
+import React, {useState} from 'react';
 
 export default function Manager(props){
     const[page, setPage] = useState('Home');

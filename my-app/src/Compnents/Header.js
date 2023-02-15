@@ -1,3 +1,5 @@
+import React from 'react'
+
 export default function Header(props){
     return(
       <div onClick={() => props.setPage("Home")} className="row d-flex container-fluid flex-row"> 

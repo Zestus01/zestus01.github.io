@@ -1,5 +1,5 @@
 import estus_zach_headshot from '../img/estus_zach_headshot.jpg'
-
+import React from 'react'
 export default function AboutMe(props){
 
 

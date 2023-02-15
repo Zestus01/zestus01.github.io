@@ -1,6 +1,7 @@
 import Textbox from './Textbox';
 import AboutMe from './AboutMe';
 import Projects from './Projects'
+import React from 'react'
 
 export default function ContentDisplay(props){
     if(props.page === 'Blogs'){

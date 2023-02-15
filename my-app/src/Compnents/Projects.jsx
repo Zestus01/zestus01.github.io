@@ -1,6 +1,7 @@
 import {useState, useEffect} from 'react';
 import Markdown from 'markdown-to-jsx';
 import { projectArray } from '../Projects/projectArray';
+import React from 'react'
 
 export default function Projects(props){
     
